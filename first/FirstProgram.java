@@ -1,4 +1,4 @@
-package com.company;
+package first;
 public class FirstProgram{
     public static void main(String[] args){
         System.out.println("Hi Harshaa!");

@@ -1,5 +1,4 @@
-package com.company;
-
+package strings;
 public class strings {
     
     public static void Main (String[] args){
